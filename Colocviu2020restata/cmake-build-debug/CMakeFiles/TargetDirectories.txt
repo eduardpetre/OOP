@@ -1,0 +1,3 @@
+C:/Users/edwrd/CLionProjects/POOColocviu2020restata/cmake-build-debug/CMakeFiles/POOColocviu2020restata.dir
+C:/Users/edwrd/CLionProjects/POOColocviu2020restata/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/edwrd/CLionProjects/POOColocviu2020restata/cmake-build-debug/CMakeFiles/rebuild_cache.dir

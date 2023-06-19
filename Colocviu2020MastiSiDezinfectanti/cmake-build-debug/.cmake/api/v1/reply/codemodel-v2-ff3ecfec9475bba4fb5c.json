@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "POOColocviu2020MastiSiDezinfectanti",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "POOColocviu2020MastiSiDezinfectanti::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-POOColocviu2020MastiSiDezinfectanti-Debug-080f60caaf6ec4a37de0.json",
+					"name" : "POOColocviu2020MastiSiDezinfectanti",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/edwrd/CLionProjects/POOColocviu2020MastiSiDezinfectanti/cmake-build-debug",
+		"source" : "C:/Users/edwrd/CLionProjects/POOColocviu2020MastiSiDezinfectanti"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

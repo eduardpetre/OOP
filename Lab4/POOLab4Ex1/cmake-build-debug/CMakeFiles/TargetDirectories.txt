@@ -1,0 +1,3 @@
+C:/Users/edwrd/CLionProjects/POOLab4Ex1/cmake-build-debug/CMakeFiles/POOLab4Ex1.dir
+C:/Users/edwrd/CLionProjects/POOLab4Ex1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/edwrd/CLionProjects/POOLab4Ex1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/edwrd/Desktop/POO Lab7/Laborator 7 - 143/solved/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/edwrd/Desktop/POO Lab7/Laborator 7 - 143/solved/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/edwrd/Desktop/POO Lab7/Laborator 7 - 143/solved/cmake-build-debug/CMakeFiles/rebuild_cache.dir

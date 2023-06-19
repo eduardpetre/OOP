@@ -1,0 +1,3 @@
+C:/Users/edwrd/CLionProjects/PooProject1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/edwrd/CLionProjects/PooProject1/cmake-build-debug/CMakeFiles/PooProject1.dir
+C:/Users/edwrd/CLionProjects/PooProject1/cmake-build-debug/CMakeFiles/edit_cache.dir

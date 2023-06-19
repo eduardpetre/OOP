@@ -1,0 +1,3 @@
+C:/Users/edwrd/Downloads/POO/Colocviu16sept/cmake-build-debug/CMakeFiles/POOColocviu16sept.dir
+C:/Users/edwrd/Downloads/POO/Colocviu16sept/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/edwrd/Downloads/POO/Colocviu16sept/cmake-build-debug/CMakeFiles/rebuild_cache.dir
